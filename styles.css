@@ -1,0 +1,17 @@
+.head {
+    text-align:center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9aUlNAeWWkyxiUI0KVvvEUGZFHWUQ5SHsp2VJcpc0Nm2hWK3N");
+}
+img {
+    width:150px;
+}
+.middle {
+    text-align:center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9aUlNAeWWkyxiUI0KVvvEUGZFHWUQ5SHsp2VJcpc0Nm2hWK3N");
+    height:100px;
+}
+.bottom {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9aUlNAeWWkyxiUI0KVvvEUGZFHWUQ5SHsp2VJcpc0Nm2hWK3N");
+    height:250px;
+    text-align:center;
+}
